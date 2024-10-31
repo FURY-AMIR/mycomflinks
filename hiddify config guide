@@ -1,0 +1,70 @@
+
+(common form)
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#m3
+
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4
+(&&detour=      makes 2 warp )
+
+
+
+(examples)
+warp://auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#no1&&detour=warp://188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=10-30&ifpm=m4#goodme
+
+
+warp://162.159.195.241:4233?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://162.159.192.149:4233?ifp=40-80&ifps=40-100&ifpd=10-30&ifpm=m4
+
+
+(server infos by scaning)
+162.159.192.39:934
+188.114.96.28:934
+
+
+
+
+speedy (better download)
+
+warp://162.159.192.39:934?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#testspeed1
+
+
+normal like up (better upload)
+warp://162.159.192.39:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#normal
+
+
+(not common and usable)
+
+hmmmm powerless
+warp://162.159.192.39:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#hmmm
+
+hmmmm powerfull
+warp://162.159.192.39:934?ifp=200-300&ifps=400-500&ifpd=20-40&ifpm=m4#hmmm
+
+
+
+
+warp to warp
+
+speed to speed
+
+warp://162.159.192.39:934?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://162.159.192.149:934?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
+
+
+
+normal to mormal
+
+warp://162.159.192.39:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://162.159.192.149:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4
+
+
+
+
+
+(not common and usable)
+
+norm to sp
+
+warp://162.159.192.39:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://162.159.192.149:934?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
+
+
+sp to norm
+
+
+warp://162.159.192.39:934?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://162.159.192.39:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4
