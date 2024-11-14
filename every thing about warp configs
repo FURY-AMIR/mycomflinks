@@ -4,8 +4,8 @@
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
 warp://162.159.192.39:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://188.114.96.28:934?ifp=40-80&ifps=40-100&ifpd=10-30&ifpm=m4
-warp://162.159.195.241:4233?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://162.159.192.149:4233?ifp=40-80&ifps=40-100&ifpd=10-30&ifpm=m4
-warp://188.114.96.12:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://162.159.192.149:934?ifp=40-80&ifps=40-100&ifpd=10-30&ifpm=m4
+warp://162.159.192.160:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://162.159.192.57:2506?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
 warp://162.159.192.39:934?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://162.159.192.149:934?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
-warp://162.159.192.39:934?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#speed
 warp://162.159.192.39:934?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#normal
+warp://162.159.192.165:2506?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#speed5
+warp://162.159.192.160:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#speed4
